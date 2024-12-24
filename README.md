@@ -16,6 +16,25 @@ Airbnb (Air Bed and Breakfast) is an online marketplace that connects people who
 * Which location is most preferred for spending the night?
 * What can we learn about different hosts and which hosts are most popular and why?
 
+#### *Variable Description*
+
+* **id** : Unique listing id
+* **name** : Name of the listing
+* **host_id** : Unique host id
+* **host_name** : Name of the host
+* **neighbourhood_group** : Location
+* **neighbourhood** : Area fall under neighbourhood group
+* **latitude** : Latitude Coordinates
+* **longitude** : Longitude Coordinates
+* **room_type** : Listing space type
+* **price** : Price of listing
+* **minimum_nights** : Minimum nights to be paid for
+* **number_of_reviews** : Number of reviews given
+* **last_review** : Date of last review given
+* **reviews_per_month** : Number of reviews per month
+* **calculated_host_listings_count** : Amount of Listing per host
+* **availability_365** : Number of days when listing is available for booking
+
 
 ### *Project Work flow*
 
