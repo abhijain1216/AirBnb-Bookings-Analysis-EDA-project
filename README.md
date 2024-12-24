@@ -16,3 +16,18 @@ Airbnb (Air Bed and Breakfast) is an online marketplace that connects people who
 * Which location is most preferred for spending the night?
 * What can we learn about different hosts and which hosts are most popular and why?
 
+
+### *Project Work flow*
+
+1. Importing Libraries
+
+2. Loading the Dataset
+
+3. Explore Dataset
+
+4. Data Wrangling
+
+5. Data Vizualization & Storytelling 
+
+6. Conclusions
+
