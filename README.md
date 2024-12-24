@@ -31,3 +31,10 @@ Airbnb (Air Bed and Breakfast) is an online marketplace that connects people who
 
 6. Conclusions
 
+   ### *Python Libraries Used*
+
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+
