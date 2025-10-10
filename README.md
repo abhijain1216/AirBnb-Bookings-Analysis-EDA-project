@@ -61,13 +61,13 @@ Airbnb (Air Bed and Breakfast) is an online marketplace that connects people who
 
 ### *Overview*
 
-### *1. Analyis in python*
+### *1. Analysis in python*
 <img width="281" height="152" alt="python1" src="https://github.com/user-attachments/assets/fee935c8-5ac5-4a1e-8889-18e6480e2307" /> <img width="399" height="344" alt="python2" src="https://github.com/user-attachments/assets/29d6d7ff-cb74-46db-bbd3-00d4b6b753fe" />
 
 <img width="677" height="242" alt="pyhton5" src="https://github.com/user-attachments/assets/3b922dc0-8ab3-4958-a76e-dd78c14f824d" />
 <img width="525" height="395" alt="python3" src="https://github.com/user-attachments/assets/612b2faf-ab44-4c3b-b45e-31d849cfeac2" />
 
-### *2. Analyis in Excel*
+### *2. Analysis in Excel*
 <img width="430" height="110" alt="Pivot Tables" src="https://github.com/user-attachments/assets/5f851519-cd50-4d71-b6d0-98067f66d9d3" />
 <img width="900" height="375" alt="Airbnb Dashboard" src="https://github.com/user-attachments/assets/d1203e8a-adbe-44fc-86ad-a849e56cbe36" />
 
