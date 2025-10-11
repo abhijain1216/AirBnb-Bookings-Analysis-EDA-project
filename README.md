@@ -46,7 +46,7 @@ Airbnb (Air Bed and Breakfast) is an online marketplace that connects people who
 
 4. Data Wrangling
 
-5. Data Vizualization & Storytelling 
+5. Data Vizualization in Python 
 
 6. Excel Dashboard
 
@@ -61,7 +61,7 @@ Airbnb (Air Bed and Breakfast) is an online marketplace that connects people who
 
 ### *Overview*
 
-### *1. Analysis in python*
+### *1. Analysis in Python*
 <img width="281" height="152" alt="python1" src="https://github.com/user-attachments/assets/fee935c8-5ac5-4a1e-8889-18e6480e2307" /> <img width="399" height="344" alt="python2" src="https://github.com/user-attachments/assets/29d6d7ff-cb74-46db-bbd3-00d4b6b753fe" />
 
 <img width="677" height="242" alt="pyhton5" src="https://github.com/user-attachments/assets/3b922dc0-8ab3-4958-a76e-dd78c14f824d" />
